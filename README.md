@@ -1,2 +1,2 @@
-# ibovespa_returns
-Analysis of returns of individual stocks which compose Ibovespa 
+# Exploratory Data Analysis (EDA) of Ibovespa's stocks
+Which stocks had higher and lower returns in the last 5 years? 
